@@ -7,21 +7,11 @@ Language Resource Reference :
 (Arabic Cyber Text Corpus, 2020). The Arabic In-Domain Cyber Text Corpus, V. 1.0, 
 ISLRN 798-080-268-332-8.
 
-CONTENTS
-1. Introduction
-2. Text Corpus
-   2.a. Data Annotation
-   2.b. Folder Structure
-3. Feedback
-4. Citation Info
-5. Acknowledgments
-
 =======================
 1. Introduction
 
 This README v1.0 (March, 2020) for Arabic In-Domain Cyber Text Corpus
 This is an Arabic text corpus covering the specific  field of cybercrimes. 
- 
  
 =======================
 2. Text Corpus
@@ -68,6 +58,7 @@ address = {Marseille, France},
 publisher = {European Language Resources Association},
 pages = {2634--2643}, 
 url = {https://www.aclweb.org/anthology/2020.lrec-1.321}
+
 =======================
 5. Acknowledgments
 
