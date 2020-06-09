@@ -57,7 +57,7 @@ year = {2020},
 address = {Marseille, France},
 publisher = {European Language Resources Association},
 pages = {2634--2643}, 
-url = {https://www.aclweb.org/anthology/2020.lrec-1.321}
+url = {https://www.aclweb.org/anthology/2020.lrec-1.321/}
 }
 
 =======================
