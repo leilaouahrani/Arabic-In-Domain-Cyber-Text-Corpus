@@ -10,12 +10,7 @@ ISLRN 798-080-268-332-8.
 
 This README v1.0 (March, 2020) for Arabic In-Domain Cyber Text Corpus
 This is an Arabic text corpus covering the specific  field of cybercrimes. 
-The corpus  was used to explore the Automatic Short Answer Grading (ASAG) field for Arabic Language.  
-The corpus was automatically obtained from texts extracted from a collection of URLs according to a list of key terms.   
-Key terms are combined and queried to a search engine, which returns a list of potentially relevant URLs.  
-The URLs are then inspected and validated.   
-Relevant web pages are retrieved, automatically cleaned of HTML tags.  The text is extracted and added to the corpus. 
- 
+
 =======================
 2. Text Corpus
 
